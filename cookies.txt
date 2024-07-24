@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+template2.thietkewebsites.com	TRUE	/clone25/	FALSE	1999999999	woocommerce_items_in_cart	1
+template2.thietkewebsites.com	TRUE	/clone25/	FALSE	1999999999	woocommerce_cart_hash	fbf967fd42f063f7d2f3e2ee2f937636
+template2.thietkewebsites.com	TRUE	/clone25/	FALSE	1999999999	wp_woocommerce_session_3d233b243d0f5d9cde3d395faa466547	03d52f730eef732e475853dd4b128c15%7C%7C1721918082%7C%7C1721914482%7C%7C59c8e230e2e46e27707de32e6b7de434
+

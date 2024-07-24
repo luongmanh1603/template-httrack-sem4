@@ -1,0 +1,307 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Jul 2024 21:33:16 at https://template2.thietkewebsites.com/clone25/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://template2.thietkewebsites.com/clone25/ -O1 "C:\template-figures" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:34:48	Error: 	"Method Not Allowed" (405) at link https://template2.thietkewebsites.com/clone25/xmlrpc.php (from https://template2.thietkewebsites.com/clone25/)
+21:34:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/feed/ (from https://template2.thietkewebsites.com/clone25/)
+21:34:53	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/comments/feed/ (from https://template2.thietkewebsites.com/clone25/)
+21:34:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/trang-chu/feed/ (from https://template2.thietkewebsites.com/clone25/)
+21:35:35	Warning: 	Moved Permanently for template2.thietkewebsites.com/robots.txt
+21:35:35	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/robots.txt and https://template2.thietkewebsites.com/robots.txt
+21:35:35	Warning: 	Warning moved treated for template2.thietkewebsites.com/robots.txt (real one is https://template2.thietkewebsites.com/robots.txt)
+21:35:35	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/tuyen-dung/
+21:35:35	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/tuyen-dung/ and https://template2.thietkewebsites.com/clone25/tuyen-dung/
+21:35:35	Warning: 	File has moved from template2.thietkewebsites.com/clone25/tuyen-dung/ to https://template2.thietkewebsites.com/clone25/tuyen-dung/
+21:35:35	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/chuyen-muc/tin-tuc/
+21:35:35	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/chuyen-muc/tin-tuc/ and https://template2.thietkewebsites.com/clone25/chuyen-muc/tin-tuc/
+21:35:35	Warning: 	File has moved from template2.thietkewebsites.com/clone25/chuyen-muc/tin-tuc/ to https://template2.thietkewebsites.com/clone25/chuyen-muc/tin-tuc/
+21:35:35	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/lien-he/
+21:35:35	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/lien-he/ and https://template2.thietkewebsites.com/clone25/lien-he/
+21:35:35	Warning: 	File has moved from template2.thietkewebsites.com/clone25/lien-he/ to https://template2.thietkewebsites.com/clone25/lien-he/
+21:35:35	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/
+21:35:35	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/ and https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/
+21:35:35	Warning: 	File has moved from template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/ to https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/
+21:35:35	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/
+21:35:35	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/ and https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/
+21:35:35	Warning: 	File has moved from template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/ to https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/
+21:35:35	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/
+21:35:35	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/ and https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/
+21:35:35	Warning: 	File has moved from template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/ to https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/
+21:44:08	Error: 	"Bad Request" (400) at link https://template2.thietkewebsites.com/clone25/wp-admin/admin-ajax.php (from https://template2.thietkewebsites.com/clone25/)
+21:44:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/feed/ (from https://template2.thietkewebsites.com/clone25/)
+21:44:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/comments/feed/ (from https://template2.thietkewebsites.com/clone25/)
+21:44:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/trang-chu/feed/ (from https://template2.thietkewebsites.com/clone25/)
+21:44:16	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=42
+21:44:16	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=42 to https://template2.thietkewebsites.com/clone25/tai-khoan/
+21:44:16	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=40
+21:44:16	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=40 to https://template2.thietkewebsites.com/clone25/gio-hang/
+21:44:16	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=5
+21:44:16	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=5 to https://template2.thietkewebsites.com/clone25/gioi-thieu/
+21:44:16	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/)
+21:46:54	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/grand-theft-auto-v/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/grand-theft-auto-v/)
+21:46:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/need-for-speed/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/need-for-speed/)
+21:46:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/tam-quoc-dien-nghia/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/tam-quoc-dien-nghia/)
+21:47:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/batman/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/batman/)
+21:47:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/battlefield/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/battlefield/)
+21:47:05	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/hitman/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/hitman/)
+21:47:07	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/wwe-2k18/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/wwe-2k18/)
+21:47:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/rust/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/rust/)
+21:47:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/left-4-dead/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/left-4-dead/)
+21:47:13	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/ark/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/ark/)
+21:47:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/playerunknowns-battlegrounds/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/playerunknowns-battlegrounds/)
+21:47:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/minecraft/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/minecraft/)
+21:47:18	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/lien-minh-huyen-thoai/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/lien-minh-huyen-thoai/)
+21:47:20	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/fifa-online-4/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/fifa-online-4/)
+21:47:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/adr1ft/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/adr1ft/)
+21:47:26	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=1162
+21:47:26	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=1162 to https://template2.thietkewebsites.com/clone25/san-pham/adr1ft/
+21:47:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/age-of-empires-ii-hd/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/age-of-empires-ii-hd/)
+21:47:56	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=1160
+21:47:56	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=1160 to https://template2.thietkewebsites.com/clone25/san-pham/age-of-empires-ii-hd/
+21:48:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/3d-coat-v4-8/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/3d-coat-v4-8/)
+21:48:03	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=1157
+21:48:03	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=1157 to https://template2.thietkewebsites.com/clone25/san-pham/3d-coat-v4-8/
+21:48:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/nam-1849/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/nam-1849/)
+21:48:11	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=1152
+21:48:11	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=1152 to https://template2.thietkewebsites.com/clone25/san-pham/nam-1849/
+21:48:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/batman-moi/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/batman-moi/)
+21:48:21	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=1137
+21:48:21	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=1137 to https://template2.thietkewebsites.com/clone25/san-pham/batman-moi/
+21:48:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/batman/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/batman/)
+21:48:28	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=932
+21:48:28	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=932 to https://template2.thietkewebsites.com/clone25/san-pham/batman/
+21:48:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/that-kho-tin-nhung-do-thi-dep-den-ao-dieu-nay-lai-la-mot-tac-pham-minecraft/feed/ (from https://template2.thietkewebsites.com/clone25/that-kho-tin-nhung-do-thi-dep-den-ao-dieu-nay-lai-la-mot-tac-pham-minecraft/)
+21:48:36	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=810
+21:48:36	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=810 to https://template2.thietkewebsites.com/clone25/that-kho-tin-nhung-do-thi-dep-den-ao-dieu-nay-lai-la-mot-tac-pham-minecraft/
+21:48:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/tuong-tac-cua-aatrox-moi-voi-cac-vi-tuong-khac-he-lo-nhieu-bi-mat-trong-cot-truyen/feed/ (from https://template2.thietkewebsites.com/clone25/tuong-tac-cua-aatrox-moi-voi-cac-vi-tuong-khac-he-lo-nhieu-bi-mat-trong-cot-truyen/)
+21:48:36	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=480
+21:48:36	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=480 to https://template2.thietkewebsites.com/clone25/tuong-tac-cua-aatrox-moi-voi-cac-vi-tuong-khac-he-lo-nhieu-bi-mat-trong-cot-truyen/
+21:48:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/phoenix-cyber-gay-soc-khi-tang-tai-khoan-2-trieu-cho-tat-ca-tan-sinh-vien-2018/feed/ (from https://template2.thietkewebsites.com/clone25/phoenix-cyber-gay-soc-khi-tang-tai-khoan-2-trieu-cho-tat-ca-tan-sinh-vien-2018/)
+21:48:36	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=478
+21:48:36	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=478 to https://template2.thietkewebsites.com/clone25/phoenix-cyber-gay-soc-khi-tang-tai-khoan-2-trieu-cho-tat-ca-tan-sinh-vien-2018/
+21:48:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/cung-den-voi-lamplight-city-tua-game-danh-cho-cac-fan-nghien-the-loai-trinh-tham/feed/ (from https://template2.thietkewebsites.com/clone25/cung-den-voi-lamplight-city-tua-game-danh-cho-cac-fan-nghien-the-loai-trinh-tham/)
+21:48:40	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=476
+21:48:40	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=476 to https://template2.thietkewebsites.com/clone25/cung-den-voi-lamplight-city-tua-game-danh-cho-cac-fan-nghien-the-loai-trinh-tham/
+21:48:41	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/honor-play-dien-thoai-choi-game-tuyet-dinh-khong-co-doi-thu/feed/ (from https://template2.thietkewebsites.com/clone25/honor-play-dien-thoai-choi-game-tuyet-dinh-khong-co-doi-thu/)
+21:48:41	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=287
+21:48:41	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=287 to https://template2.thietkewebsites.com/clone25/honor-play-dien-thoai-choi-game-tuyet-dinh-khong-co-doi-thu/
+21:48:41	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/review-fear-the-wolves-game-pubg-phien-ban-nuoc-nga-vo-cung-khoc-liet/feed/ (from https://template2.thietkewebsites.com/clone25/review-fear-the-wolves-game-pubg-phien-ban-nuoc-nga-vo-cung-khoc-liet/)
+21:48:41	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=1
+21:48:41	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=1 to https://template2.thietkewebsites.com/clone25/review-fear-the-wolves-game-pubg-phien-ban-nuoc-nga-vo-cung-khoc-liet/
+21:48:44	Warning: 	Retry after error 504 (Gateway Time-out) at link https://template2.thietkewebsites.com/clone25/thanh-toan/ (from https://template2.thietkewebsites.com/clone25/?add-to-cart=1162)
+21:48:44	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=a8240cb8235e9c493a0c30607586166c&_wpnonce=391d64bd8d
+21:48:44	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=a8240cb8235e9c493a0c30607586166c&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/?removed_item=1
+21:48:47	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/rust/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/rust/)
+21:48:47	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=931
+21:48:47	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=931 to https://template2.thietkewebsites.com/clone25/san-pham/rust/
+21:48:51	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/the-forest/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/the-forest/)
+21:48:51	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=930
+21:48:51	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=930 to https://template2.thietkewebsites.com/clone25/san-pham/the-forest/
+21:49:04	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/hitman/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/hitman/)
+21:49:04	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=929
+21:49:04	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=929 to https://template2.thietkewebsites.com/clone25/san-pham/hitman/
+21:49:13	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=0d0871f0806eae32d30983b62252da50&_wpnonce=391d64bd8d
+21:49:13	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=0d0871f0806eae32d30983b62252da50&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/?removed_item=1
+21:49:13	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/ark/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/ark/)
+21:49:13	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=928
+21:49:13	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=928 to https://template2.thietkewebsites.com/clone25/san-pham/ark/
+21:49:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/battlefield/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/battlefield/)
+21:49:18	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=927
+21:49:18	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=927 to https://template2.thietkewebsites.com/clone25/san-pham/battlefield/
+21:49:25	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=1f4477bad7af3616c1f933a02bfabe4e&_wpnonce=391d64bd8d
+21:49:25	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=1f4477bad7af3616c1f933a02bfabe4e&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/?removed_item=1
+21:49:25	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=884d79963bd8bc0ae9b13a1aa71add73&_wpnonce=391d64bd8d
+21:49:25	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=884d79963bd8bc0ae9b13a1aa71add73&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/?removed_item=1
+21:49:25	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/feed/ (from https://template2.thietkewebsites.com/clone25/)
+21:49:25	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/comments/feed/ (from https://template2.thietkewebsites.com/clone25/)
+21:49:25	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/trang-chu/feed/ (from https://template2.thietkewebsites.com/clone25/)
+21:49:25	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/)
+21:49:25	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=abea47ba24142ed16b7d8fbf2c740e0d&_wpnonce=391d64bd8d
+21:49:25	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=abea47ba24142ed16b7d8fbf2c740e0d&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:49:26	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=d045c59a90d7587d8d671b5f5aec4e7c&_wpnonce=391d64bd8d
+21:49:26	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=d045c59a90d7587d8d671b5f5aec4e7c&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:49:26	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=d2ed45a52bc0edfa11c2064e9edee8bf&_wpnonce=391d64bd8d
+21:49:26	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=d2ed45a52bc0edfa11c2064e9edee8bf&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:49:26	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=801c14f07f9724229175b8ef8b4585a8&_wpnonce=391d64bd8d
+21:49:26	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=801c14f07f9724229175b8ef8b4585a8&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:49:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/)
+21:49:28	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=925
+21:49:28	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=925 to https://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/
+21:49:39	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=7fa732b517cbed14a48843d74526c11a&_wpnonce=391d64bd8d
+21:49:39	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=7fa732b517cbed14a48843d74526c11a&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:49:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/grand-theft-auto-v/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/grand-theft-auto-v/)
+21:49:39	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=920
+21:49:39	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=920 to https://template2.thietkewebsites.com/clone25/san-pham/grand-theft-auto-v/
+21:49:47	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=6d0f846348a856321729a2f36734d1a7&_wpnonce=391d64bd8d
+21:49:47	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=6d0f846348a856321729a2f36734d1a7&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:49:47	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/left-4-dead/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/left-4-dead/)
+21:49:47	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=926
+21:49:47	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=926 to https://template2.thietkewebsites.com/clone25/san-pham/left-4-dead/
+21:49:54	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=cbb6a3b884f4f88b3a8e3d44c636cbd8&_wpnonce=391d64bd8d
+21:49:54	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=cbb6a3b884f4f88b3a8e3d44c636cbd8&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:49:54	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/lien-minh-huyen-thoai/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/lien-minh-huyen-thoai/)
+21:49:54	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=922
+21:49:54	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=922 to https://template2.thietkewebsites.com/clone25/san-pham/lien-minh-huyen-thoai/
+21:50:02	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=ccc0aa1b81bf81e16c676ddb977c5881&_wpnonce=391d64bd8d
+21:50:02	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=ccc0aa1b81bf81e16c676ddb977c5881&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:50:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/minecraft/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/minecraft/)
+21:50:02	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=919
+21:50:02	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=919 to https://template2.thietkewebsites.com/clone25/san-pham/minecraft/
+21:50:15	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=3e89ebdb49f712c7d90d1b39e348bbbf&_wpnonce=391d64bd8d
+21:50:15	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=3e89ebdb49f712c7d90d1b39e348bbbf&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:50:15	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=45f31d16b1058d586fc3be7207b58053&_wpnonce=391d64bd8d
+21:50:15	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=45f31d16b1058d586fc3be7207b58053&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:50:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/need-for-speed/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/need-for-speed/)
+21:50:15	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=921
+21:50:15	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=921 to https://template2.thietkewebsites.com/clone25/san-pham/need-for-speed/
+21:50:29	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=430c3626b879b4005d41b8a46172e0c0&_wpnonce=391d64bd8d
+21:50:29	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=430c3626b879b4005d41b8a46172e0c0&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:50:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/pubg/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/pubg/)
+21:50:29	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=918
+21:50:29	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=918 to https://template2.thietkewebsites.com/clone25/san-pham/pubg/
+21:50:39	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=1e056d2b0ebd5c878c550da6ac5d3724&_wpnonce=391d64bd8d
+21:50:39	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=1e056d2b0ebd5c878c550da6ac5d3724&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:50:39	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=9f53d83ec0691550f7d2507d57f4f5a2&_wpnonce=391d64bd8d
+21:50:39	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=9f53d83ec0691550f7d2507d57f4f5a2&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:50:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/tam-quoc-dien-nghia/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/tam-quoc-dien-nghia/)
+21:50:39	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=923
+21:50:39	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=923 to https://template2.thietkewebsites.com/clone25/san-pham/tam-quoc-dien-nghia/
+21:50:48	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=c4015b7f368e6b4871809f49debe0579&_wpnonce=391d64bd8d
+21:50:48	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=c4015b7f368e6b4871809f49debe0579&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:50:48	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=1cc3633c579a90cfdd895e64021e2163&_wpnonce=391d64bd8d
+21:50:48	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=1cc3633c579a90cfdd895e64021e2163&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:50:48	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/wwe-2k18/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/wwe-2k18/)
+21:50:48	Warning: 	Moved Permanently for https://template2.thietkewebsites.com/clone25/?p=924
+21:50:48	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/?p=924 to https://template2.thietkewebsites.com/clone25/san-pham/wwe-2k18/
+21:50:56	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=bea5955b308361a1b07bc55042e25e54&_wpnonce=391d64bd8d
+21:50:56	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=bea5955b308361a1b07bc55042e25e54&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:50:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/grand-theft-auto-v/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/grand-theft-auto-v/)
+21:50:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/need-for-speed/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/need-for-speed/)
+21:50:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/tam-quoc-dien-nghia/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/tam-quoc-dien-nghia/)
+21:50:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/batman/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/batman/)
+21:51:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/battlefield/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/battlefield/)
+21:51:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/hitman/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/hitman/)
+21:51:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/wwe-2k18/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/wwe-2k18/)
+21:51:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/rust/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/rust/)
+21:51:05	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/left-4-dead/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/left-4-dead/)
+21:51:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/ark/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/ark/)
+21:51:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/playerunknowns-battlegrounds/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/playerunknowns-battlegrounds/)
+21:51:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/minecraft/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/minecraft/)
+21:51:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/lien-minh-huyen-thoai/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/lien-minh-huyen-thoai/)
+21:51:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/fifa-online-4/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/fifa-online-4/)
+21:51:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/adr1ft/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/adr1ft/)
+21:51:12	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/web-site-500k/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/web-site-500k/)
+21:51:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/age-of-empires-ii-hd/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/age-of-empires-ii-hd/)
+21:51:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/3d-coat-v4-8/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/3d-coat-v4-8/)
+21:51:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/nam-1849/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/nam-1849/)
+21:51:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/batman-moi/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/batman-moi/)
+21:51:37	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/batman/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/batman/)
+21:51:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/that-kho-tin-nhung-do-thi-dep-den-ao-dieu-nay-lai-la-mot-tac-pham-minecraft/feed/ (from https://template2.thietkewebsites.com/clone25/that-kho-tin-nhung-do-thi-dep-den-ao-dieu-nay-lai-la-mot-tac-pham-minecraft/)
+21:51:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/tuong-tac-cua-aatrox-moi-voi-cac-vi-tuong-khac-he-lo-nhieu-bi-mat-trong-cot-truyen/feed/ (from https://template2.thietkewebsites.com/clone25/tuong-tac-cua-aatrox-moi-voi-cac-vi-tuong-khac-he-lo-nhieu-bi-mat-trong-cot-truyen/)
+21:51:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/phoenix-cyber-gay-soc-khi-tang-tai-khoan-2-trieu-cho-tat-ca-tan-sinh-vien-2018/feed/ (from https://template2.thietkewebsites.com/clone25/phoenix-cyber-gay-soc-khi-tang-tai-khoan-2-trieu-cho-tat-ca-tan-sinh-vien-2018/)
+21:51:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/cung-den-voi-lamplight-city-tua-game-danh-cho-cac-fan-nghien-the-loai-trinh-tham/feed/ (from https://template2.thietkewebsites.com/clone25/cung-den-voi-lamplight-city-tua-game-danh-cho-cac-fan-nghien-the-loai-trinh-tham/)
+21:51:44	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/honor-play-dien-thoai-choi-game-tuyet-dinh-khong-co-doi-thu/feed/ (from https://template2.thietkewebsites.com/clone25/honor-play-dien-thoai-choi-game-tuyet-dinh-khong-co-doi-thu/)
+21:51:44	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/review-fear-the-wolves-game-pubg-phien-ban-nuoc-nga-vo-cung-khoc-liet/feed/ (from https://template2.thietkewebsites.com/clone25/review-fear-the-wolves-game-pubg-phien-ban-nuoc-nga-vo-cung-khoc-liet/)
+21:51:44	Warning: 	Retry after error 504 (Gateway Time-out) at link https://template2.thietkewebsites.com/clone25/thanh-toan/ (from https://template2.thietkewebsites.com/clone25/?add-to-cart=1162)
+21:51:44	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/?removed_item=1
+21:51:44	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/?removed_item=1 and https://template2.thietkewebsites.com/clone25/?removed_item=1
+21:51:44	Warning: 	File has moved from template2.thietkewebsites.com/clone25/?removed_item=1 to https://template2.thietkewebsites.com/clone25/?removed_item=1
+21:51:44	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=a8240cb8235e9c493a0c30607586166c&_wpnonce=391d64bd8d
+21:51:44	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=a8240cb8235e9c493a0c30607586166c&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=45f31d16b1058d586fc3be7207b58053
+21:51:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/rust/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/rust/)
+21:51:47	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/the-forest/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/the-forest/)
+21:51:48	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/the-forest/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/the-forest/)
+21:51:51	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/hitman/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/hitman/)
+21:51:51	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/ark/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/ark/)
+21:51:51	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=0d0871f0806eae32d30983b62252da50&_wpnonce=391d64bd8d
+21:51:51	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=0d0871f0806eae32d30983b62252da50&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/ark/?add-to-cart=1162
+21:51:51	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/battlefield/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/battlefield/)
+21:51:55	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=884d79963bd8bc0ae9b13a1aa71add73&_wpnonce=391d64bd8d
+21:51:55	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=884d79963bd8bc0ae9b13a1aa71add73&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=801c14f07f9724229175b8ef8b4585a8
+21:51:56	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/)
+21:51:56	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:51:56	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/san-pham/?removed_item=1 and https://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:51:56	Warning: 	File has moved from template2.thietkewebsites.com/clone25/san-pham/?removed_item=1 to https://template2.thietkewebsites.com/clone25/san-pham/?removed_item=1
+21:51:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/)
+21:51:56	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=abea47ba24142ed16b7d8fbf2c740e0d&_wpnonce=391d64bd8d
+21:51:56	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=abea47ba24142ed16b7d8fbf2c740e0d&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/?add-to-cart=1162
+21:51:56	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=d045c59a90d7587d8d671b5f5aec4e7c&_wpnonce=391d64bd8d
+21:51:56	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=d045c59a90d7587d8d671b5f5aec4e7c&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/?add-to-cart=1162
+21:51:56	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=d2ed45a52bc0edfa11c2064e9edee8bf&_wpnonce=391d64bd8d
+21:51:56	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=d2ed45a52bc0edfa11c2064e9edee8bf&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/?add-to-cart=1162
+21:51:56	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=801c14f07f9724229175b8ef8b4585a8&_wpnonce=391d64bd8d
+21:51:56	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=801c14f07f9724229175b8ef8b4585a8&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/?add-to-cart=1162
+21:51:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/grand-theft-auto-v/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/grand-theft-auto-v/)
+21:51:56	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/left-4-dead/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/left-4-dead/)
+21:51:59	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/lien-minh-huyen-thoai/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/lien-minh-huyen-thoai/)
+21:52:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/minecraft/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/minecraft/)
+21:52:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/need-for-speed/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/need-for-speed/)
+21:52:02	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=3e89ebdb49f712c7d90d1b39e348bbbf&_wpnonce=391d64bd8d
+21:52:02	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=3e89ebdb49f712c7d90d1b39e348bbbf&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/need-for-speed/?add-to-cart=1162
+21:52:02	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=45f31d16b1058d586fc3be7207b58053&_wpnonce=391d64bd8d
+21:52:02	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=45f31d16b1058d586fc3be7207b58053&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/need-for-speed/?add-to-cart=1162
+21:52:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/pubg/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/pubg/)
+21:52:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/tam-quoc-dien-nghia/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/tam-quoc-dien-nghia/)
+21:52:05	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=9f53d83ec0691550f7d2507d57f4f5a2&_wpnonce=391d64bd8d
+21:52:05	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=9f53d83ec0691550f7d2507d57f4f5a2&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/tam-quoc-dien-nghia/?add-to-cart=1162
+21:52:05	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/san-pham/wwe-2k18/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/wwe-2k18/)
+21:52:05	Warning: 	Found for https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=1cc3633c579a90cfdd895e64021e2163&_wpnonce=391d64bd8d
+21:52:05	Warning: 	File has moved from https://template2.thietkewebsites.com/clone25/gio-hang/?undo_item=1cc3633c579a90cfdd895e64021e2163&_wpnonce=391d64bd8d to http://template2.thietkewebsites.com/clone25/san-pham/wwe-2k18/?add-to-cart=1162
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/grand-theft-auto-v/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/grand-theft-auto-v/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/need-for-speed/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/need-for-speed/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/tam-quoc-dien-nghia/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/tam-quoc-dien-nghia/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/batman/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/batman/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/battlefield/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/battlefield/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/hitman/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/hitman/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/wwe-2k18/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-hanh-dong/wwe-2k18/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/rust/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/rust/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/left-4-dead/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/left-4-dead/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/ark/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/ark/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/playerunknowns-battlegrounds/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/playerunknowns-battlegrounds/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/minecraft/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/minecraft/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/lien-minh-huyen-thoai/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/lien-minh-huyen-thoai/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/fifa-online-4/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-chien-thuat/fifa-online-4/)
+21:52:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/adr1ft/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/adr1ft/)
+21:52:05	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/web-site-500k/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/web-site-500k/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/age-of-empires-ii-hd/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/age-of-empires-ii-hd/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/3d-coat-v4-8/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/3d-coat-v4-8/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/nam-1849/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/nam-1849/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/batman-moi/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/batman-moi/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/batman/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/batman/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/that-kho-tin-nhung-do-thi-dep-den-ao-dieu-nay-lai-la-mot-tac-pham-minecraft/feed/ (from https://template2.thietkewebsites.com/clone25/that-kho-tin-nhung-do-thi-dep-den-ao-dieu-nay-lai-la-mot-tac-pham-minecraft/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/tuong-tac-cua-aatrox-moi-voi-cac-vi-tuong-khac-he-lo-nhieu-bi-mat-trong-cot-truyen/feed/ (from https://template2.thietkewebsites.com/clone25/tuong-tac-cua-aatrox-moi-voi-cac-vi-tuong-khac-he-lo-nhieu-bi-mat-trong-cot-truyen/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/phoenix-cyber-gay-soc-khi-tang-tai-khoan-2-trieu-cho-tat-ca-tan-sinh-vien-2018/feed/ (from https://template2.thietkewebsites.com/clone25/phoenix-cyber-gay-soc-khi-tang-tai-khoan-2-trieu-cho-tat-ca-tan-sinh-vien-2018/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/cung-den-voi-lamplight-city-tua-game-danh-cho-cac-fan-nghien-the-loai-trinh-tham/feed/ (from https://template2.thietkewebsites.com/clone25/cung-den-voi-lamplight-city-tua-game-danh-cho-cac-fan-nghien-the-loai-trinh-tham/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/honor-play-dien-thoai-choi-game-tuyet-dinh-khong-co-doi-thu/feed/ (from https://template2.thietkewebsites.com/clone25/honor-play-dien-thoai-choi-game-tuyet-dinh-khong-co-doi-thu/)
+21:52:06	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/review-fear-the-wolves-game-pubg-phien-ban-nuoc-nga-vo-cung-khoc-liet/feed/ (from https://template2.thietkewebsites.com/clone25/review-fear-the-wolves-game-pubg-phien-ban-nuoc-nga-vo-cung-khoc-liet/)
+21:53:15	Error: 	"Gateway Time-out" (504) after 2 retries at link https://template2.thietkewebsites.com/clone25/thanh-toan/ (from https://template2.thietkewebsites.com/clone25/?add-to-cart=1162)
+21:53:15	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/gio-hang/?remove_item=45f31d16b1058d586fc3be7207b58053
+21:53:15	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/gio-hang/?remove_item=45f31d16b1058d586fc3be7207b58053 and https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=45f31d16b1058d586fc3be7207b58053
+21:53:15	Warning: 	File has moved from template2.thietkewebsites.com/clone25/gio-hang/?remove_item=45f31d16b1058d586fc3be7207b58053 to https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=45f31d16b1058d586fc3be7207b58053
+21:53:15	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/rust/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/rust/)
+21:53:15	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/the-forest/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/the-forest/)
+21:53:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/the-forest/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/the-forest/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/hitman/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/hitman/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/ark/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/ark/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/battlefield/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/battlefield/)
+21:53:16	Warning: 	Moved Permanently for template2.thietkewebsites.com/clone25/gio-hang/?remove_item=801c14f07f9724229175b8ef8b4585a8
+21:53:16	Warning: 	Redirected link is identical because of 'URL Hack' option: template2.thietkewebsites.com/clone25/gio-hang/?remove_item=801c14f07f9724229175b8ef8b4585a8 and https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=801c14f07f9724229175b8ef8b4585a8
+21:53:16	Warning: 	File has moved from template2.thietkewebsites.com/clone25/gio-hang/?remove_item=801c14f07f9724229175b8ef8b4585a8 to https://template2.thietkewebsites.com/clone25/gio-hang/?remove_item=801c14f07f9724229175b8ef8b4585a8
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/fifa-online-4/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/grand-theft-auto-v/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/grand-theft-auto-v/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/left-4-dead/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/left-4-dead/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/lien-minh-huyen-thoai/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/lien-minh-huyen-thoai/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/minecraft/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/minecraft/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/need-for-speed/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/need-for-speed/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/pubg/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/pubg/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/tam-quoc-dien-nghia/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/tam-quoc-dien-nghia/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/san-pham/wwe-2k18/feed/ (from https://template2.thietkewebsites.com/clone25/san-pham/wwe-2k18/)
+21:53:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/web-site-500k/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/web-site-500k/)
+21:53:17	Error: 	"Internal Server Error" (500) after 2 retries at link https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/the-forest/feed/ (from https://template2.thietkewebsites.com/clone25/danh-muc/game-sinh-ton/the-forest/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 1 seconds : 553 links scanned, 338 files written (54105465 bytes overall) [19388735 bytes received at 16143 bytes/sec], 44312461 bytes transferred using HTTP compression in 293 files, ratio 18%, 15.0 requests per connection
+(49 errors, 247 warnings, 0 messages)
